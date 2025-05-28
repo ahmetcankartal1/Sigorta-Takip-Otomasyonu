@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\pol\u0131cemodulu\\policeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:pol\u0131cemodulu\\policeislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\hasarmodulu\\hasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:hasarmodulu\\hasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\musterimodulu\\imusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:musterimodulu\\imusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|c:\\users\\ahmet can\\desktop\\projeler(f\u0130nal)\\nesne projesj\u0130(sigorta takip otomasyonu)\\sigortatakipotomasyonu\\musterimodulu\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:musterimodulu\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\hasarmodulu\\ihasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:hasarmodulu\\ihasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\musterimodulu\\imusterikontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:musterimodulu\\imusterikontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\pol\u0131cemodulu\\ipoliceislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:pol\u0131cemodulu\\ipoliceislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\pol\u0131cemodulu\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:pol\u0131cemodulu\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\musterimodulu\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:musterimodulu\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\pol\u0131cemodulu\\baseislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:pol\u0131cemodulu\\baseislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\hasarmodulu\\hasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:hasarmodulu\\hasar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\hasarmodulu\\baseislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:hasarmodulu\\baseislemler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\pol\u0131cemodulu\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:pol\u0131cemodulu\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\musterimodulu\\musteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:musterimodulu\\musteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\musterimodulu\\musterisayac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:musterimodulu\\musterisayac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\formhasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:formhasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\formhasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:formhasarislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\formmusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:formmusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\formpoliceislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:formpoliceislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\formpoliceislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:formpoliceislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\formhasarislemleri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:formhasarislemleri.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\formmusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A2625B-E9D9-4CDF-9918-90AF4B91AFA4}|SigortaTakipOtomasyonu.csproj|solutionrelative:formmusteriislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:53:51.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormMusteriIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormMusteriIslemleri.cs",
+              "RelativeDocumentMoniker": "FormMusteriIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormMusteriIslemleri.cs [Design]",
+              "RelativeToolTip": "FormMusteriIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:06:26.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormHasarIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormHasarIslemleri.cs",
+              "RelativeDocumentMoniker": "FormHasarIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormHasarIslemleri.cs [Design]",
+              "RelativeToolTip": "FormHasarIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:07:04.694Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormPoliceIslemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormPoliceIslemleri.cs",
+              "RelativeDocumentMoniker": "FormPoliceIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormPoliceIslemleri.cs [Design]",
+              "RelativeToolTip": "FormPoliceIslemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:06:46.925Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormHasarIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormHasarIslemleri.cs",
+              "RelativeDocumentMoniker": "FormHasarIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormHasarIslemleri.cs",
+              "RelativeToolTip": "FormHasarIslemleri.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAtwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:04:30.401Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormPoliceIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormPoliceIslemleri.cs",
+              "RelativeDocumentMoniker": "FormPoliceIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormPoliceIslemleri.cs",
+              "RelativeToolTip": "FormPoliceIslemleri.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:17:27.365Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormMusteriIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormMusteriIslemleri.cs",
+              "RelativeDocumentMoniker": "FormMusteriIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormMusteriIslemleri.cs",
+              "RelativeToolTip": "FormMusteriIslemleri.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:14:28.339Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:01:52.201Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HasarIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\HasarIslemleri.cs",
+              "RelativeDocumentMoniker": "HasarModulu\\HasarIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\HasarIslemleri.cs",
+              "RelativeToolTip": "HasarModulu\\HasarIslemleri.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwKYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:09:52.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPoliceIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\IPoliceIslemleri.cs",
+              "RelativeDocumentMoniker": "Pol\u0131ceModulu\\IPoliceIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\IPoliceIslemleri.cs",
+              "RelativeToolTip": "Pol\u0131ceModulu\\IPoliceIslemleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T02:13:35.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\ICrud.cs",
+              "RelativeDocumentMoniker": "Pol\u0131ceModulu\\ICrud.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\ICrud.cs",
+              "RelativeToolTip": "Pol\u0131ceModulu\\ICrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:31:19.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMusteriKontrol.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\IMusteriKontrol.cs",
+              "RelativeDocumentMoniker": "MusteriModulu\\IMusteriKontrol.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\IMusteriKontrol.cs",
+              "RelativeToolTip": "MusteriModulu\\IMusteriKontrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:03:51.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHasarIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\IHasarIslemleri.cs",
+              "RelativeDocumentMoniker": "HasarModulu\\IHasarIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\IHasarIslemleri.cs",
+              "RelativeToolTip": "HasarModulu\\IHasarIslemleri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:14:54.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseIslemler.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\BaseIslemler.cs",
+              "RelativeDocumentMoniker": "Pol\u0131ceModulu\\BaseIslemler.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\BaseIslemler.cs",
+              "RelativeToolTip": "Pol\u0131ceModulu\\BaseIslemler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:31:45.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hasar.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\Hasar.cs",
+              "RelativeDocumentMoniker": "HasarModulu\\Hasar.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\Hasar.cs",
+              "RelativeToolTip": "HasarModulu\\Hasar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:15:28.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseIslemler.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\BaseIslemler.cs",
+              "RelativeDocumentMoniker": "HasarModulu\\BaseIslemler.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\HasarModulu\\BaseIslemler.cs",
+              "RelativeToolTip": "HasarModulu\\BaseIslemler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:09:30.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoliceIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\PoliceIslemleri.cs",
+              "RelativeDocumentMoniker": "Pol\u0131ceModulu\\PoliceIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\PoliceIslemleri.cs",
+              "RelativeToolTip": "Pol\u0131ceModulu\\PoliceIslemleri.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:22:50.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\Musteri.cs",
+              "RelativeDocumentMoniker": "MusteriModulu\\Musteri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\Musteri.cs",
+              "RelativeToolTip": "MusteriModulu\\Musteri.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:01:57.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMusteriIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\IMusteriIslemleri.cs",
+              "RelativeDocumentMoniker": "MusteriModulu\\IMusteriIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\IMusteriIslemleri.cs",
+              "RelativeToolTip": "MusteriModulu\\IMusteriIslemleri.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:04:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Icrud.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\Icrud.cs",
+              "RelativeDocumentMoniker": "MusteriModulu\\Icrud.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\Icrud.cs",
+              "RelativeToolTip": "MusteriModulu\\Icrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:03:12.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Police.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\Police.cs",
+              "RelativeDocumentMoniker": "Pol\u0131ceModulu\\Police.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Pol\u0131ceModulu\\Police.cs",
+              "RelativeToolTip": "Pol\u0131ceModulu\\Police.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T21:22:09.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MusteriSayac.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\MusteriSayac.cs",
+              "RelativeDocumentMoniker": "MusteriModulu\\MusteriSayac.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\MusteriSayac.cs",
+              "RelativeToolTip": "MusteriModulu\\MusteriSayac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:04:44.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusteriIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\MusteriIslemleri.cs",
+              "RelativeDocumentMoniker": "MusteriModulu\\MusteriIslemleri.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\MusteriModulu\\MusteriIslemleri.cs",
+              "RelativeToolTip": "MusteriModulu\\MusteriIslemleri.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:27:04.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormHasarIslemleri.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormHasarIslemleri.Designer.cs",
+              "RelativeDocumentMoniker": "FormHasarIslemleri.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\FormHasarIslemleri.Designer.cs",
+              "RelativeToolTip": "FormHasarIslemleri.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAnwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:06:41.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ahmet Can\\Desktop\\PROJELER(F\u0130NAL)\\NESNE PROJESJ\u0130(sigorta takip otomasyonu)\\SigortaTakipOtomasyonu\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T10:01:00.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

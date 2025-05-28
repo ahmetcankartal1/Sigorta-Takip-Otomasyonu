@@ -1,0 +1,27 @@
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\bin\Debug\SigortaTakipOtomasyonu.exe.config
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\bin\Debug\SigortaTakipOtomasyonu.exe
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\bin\Debug\SigortaTakipOtomasyonu.pdb
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.Form1.resources
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.exe
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.pdb
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.FormMusteriIslemleri.resources
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.FormPoliceIslemleri.resources
+C:\Users\Ahmet Can\Desktop\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.FormHasarIslemleri.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\bin\Debug\SigortaTakipOtomasyonu.exe.config
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\bin\Debug\SigortaTakipOtomasyonu.exe
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\bin\Debug\SigortaTakipOtomasyonu.pdb
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.Form1.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.FormHasarIslemleri.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.FormMusteriIslemleri.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.FormPoliceIslemleri.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.exe
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.pdb
+C:\Users\Ahmet Can\Desktop\PROJELER(FİNAL)\NESNE PROJESJİ(sigorta takip otomasyonu)\SigortaTakipOtomasyonu\obj\Debug\SigortaTakipOtomasyonu.exe.config
